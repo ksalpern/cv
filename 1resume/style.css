@@ -1,0 +1,180 @@
+body
+{
+    font-family: 'Roboto', sans-serif;
+    background-color: #f7f7ef;
+}
+.main-container
+{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    background-color: white;
+    margin: 40px auto;
+}
+.main-content-section
+{
+    display: column;
+    padding: 100px 90px;
+}
+.about-me-section
+{
+    margin: 0 0 40px 0;
+}
+.main-content-title
+{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: black;
+    margin-bottom: 10px;
+}
+.about-me-profession
+{
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+    font-style: normal;
+    line-height: 17px;
+    margin-bottom: 20px;
+}
+.about-me-name
+{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+    color: black;
+    margin: 0 0 20px 0;
+}
+.about-me-description
+{
+    width: 400px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.projects-list
+{
+    background-color: #fff;
+    color: #595959;
+    font-size: 14px;
+    line-height: 24px;
+}
+.my-projects-section
+{
+    margin: 50px;
+}
+.projects-list
+{
+    padding: 0 0 0 20px;
+}
+.project-item
+{
+    color: #000;
+}
+.project-list-item
+{
+    color: black;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+}
+.my-work-experience
+{
+    margin: 50px;
+}
+.my-education
+{
+    margin: 50px;
+}
+.sidebar-section
+{
+    width: 370px;
+    padding: 40px 0;
+    background-color: rgb(28, 28, 77);
+}
+.contacts-section
+{
+    margin: 50px 0 0 50px;
+}
+.tech-skills-section
+{
+    margin: 50px 0 0 50px;
+}
+.soft-skills-section
+{
+    margin: 50px 0 0 50px;
+}
+.sidebar-title
+{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: white;
+    margin-bottom: 10px;
+}
+.contacts-section-type
+{
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: white;
+    margin-right: 10px;
+}
+.contacts-section-link
+{
+    color: white;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+.tech-skills-list
+{
+    padding: 0 0 0 15px;
+    color: white;
+}
+.tech-skills-item
+{
+    color: #fb6d3a;
+}
+.text
+{
+    display: block;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: black;
+}
+.tech-skills-item-text
+{
+ display: block;
+ font-style: normal;
+ font-weight: normal;
+ font-size: 14px;
+ line-height: 24px;
+ color: white;
+}
+.soft-skills-list
+{
+    padding: 0 0 0 15px;
+    color: white;
+}
+.soft-skills-item
+{
+    color: #fb6d3a;
+}
+.soft-skills-item-text
+{
+    display: block;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: white;
+}
