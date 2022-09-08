@@ -3,6 +3,15 @@ body {
     background-color: #f7f7ef;
 }
 
+a {
+    text-decoration: none;
+    color: rgb(26, 4, 54);
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 .main-container {
     display: flex;
     flex-direction: row-reverse;
@@ -93,7 +102,7 @@ body {
 .sidebar-section {
     width: 370px;
     padding: 40px 0;
-    background-color: rgb(28, 28, 77);
+    background-color: rgb(7, 7, 45);
 }
 
 .contacts-section {
@@ -128,9 +137,14 @@ body {
 .contacts-section-link {
     color: white;
     font-style: normal;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 14px;
     line-height: 24px;
+    margin-right: 8px;
+}
+
+.white-link{
+    color: white;
 }
 
 .tech-skills-list {
